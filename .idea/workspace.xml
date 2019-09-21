@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b26059d-1ae5-458a-8da0-fbf8a2230105" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/BudgetBuddiMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Morgan\Documents\3RD YEAR\Assignment5-master\src\main\java\BudgetBuddi</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/TaxController/IncomeTaxControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ControllerTests/ExpenseControllerTests/ExpenseCategoryControllerTests/TaxControllerTests/IncomeTaxControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/TravelController/BusControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/TravelController/PlaneControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/TravelController/UberControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ControllerTests/ExpenseControllerTests/ExpenseCategoryControllerTests/TravelControllerTests/UberControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpensesController/ExpenseControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpensesController/RegularExpenseControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/UsersController/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/IncomeController/RegularIncomeControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/IncomeController/IncomeControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ControllerTests/IncomeControllerTests/IncomeControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ControllerTests/ExpenseControllerTests/ExpensesControllerTests/RegularExpenseControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ControllerTests/ExpenseControllerTests/ExpensesControllerTests/ExpenseControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Security/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/InsuranceController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/InsuranceControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Entertainment/Fitness.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Car/Insurance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Car/Petrol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Entertainment/Party.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Healthcare/MedicalAid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Appliances.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Groceries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Other.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Rent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Personal/Beauty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Personal/Clothes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/School/Books.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/School/Fees.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/School/Stationary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Totals/TotalCategoryExpense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Bus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Plane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Uber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Income/RegularIncome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/Expense/RegularExpsenses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/Expense/Expense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Income/IncomeSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Users/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpensesFactories/RegularExpensiveFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpensesFactories/ExpenseFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/PaymentsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/PetrolControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/EntertainmentController/FitnessControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/EntertainmentController/PartyControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/HealthCareController/MedicalAidControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddiMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BudgetBuddi/BudgetBuddiMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BudgetBuddi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BudgetBuddi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment5-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BudgetBuddi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment5-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BudgetBuddi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment5-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BudgetBuddi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment5-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BudgetBuddi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment5-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BudgetBuddi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569065861136" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.HealthCareController" />
+      <recent name="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.EntertainmentController" />
+      <recent name="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController" />
+      <recent name="BudgetBuddi.Controller.IncomeController" />
+      <recent name="BudgetBuddi.Controller.UsersController" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\215102037\Project\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="BudgetBuddi" />
+      <recent name="BudgetBuddi.Factories.ExpenseCategoryFactory" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\215102037\Project\src\main\java\BudgetBuddi\Factories\CarFactories" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BudgetBuddiMain">
+    <configuration name="InsuranceControllerTest.createInsurance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BudgetBuddi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController" />
+      <option name="MAIN_CLASS_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController.InsuranceControllerTest" />
+      <option name="METHOD_NAME" value="createInsurance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedicalAidControllerTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BudgetBuddi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.HealthCareController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.HealthCareController" />
+      <option name="MAIN_CLASS_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.HealthCareController.MedicalAidControllerTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentsControllerTest.createPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BudgetBuddi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController" />
+      <option name="MAIN_CLASS_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController.PaymentsControllerTest" />
+      <option name="METHOD_NAME" value="createPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentsControllerTest.getAllPayments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BudgetBuddi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController" />
+      <option name="MAIN_CLASS_NAME" value="BudgetBuddi.Controller.ExpensesController.ExpenseCategoryController.CarController.PaymentsControllerTest" />
+      <option name="METHOD_NAME" value="getAllPayments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BudgetBuddiMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="BudgetBuddi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="BudgetBuddi.BudgetBuddiMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BudgetBuddiMain" />
+        <item itemvalue="JUnit.MedicalAidControllerTest.create" />
+        <item itemvalue="JUnit.PaymentsControllerTest.getAllPayments" />
+        <item itemvalue="JUnit.InsuranceControllerTest.createInsurance" />
+        <item itemvalue="JUnit.PaymentsControllerTest.createPayment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b26059d-1ae5-458a-8da0-fbf8a2230105" name="Default Changelist" comment="" />
+      <created>1555408080905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555408080905</updated>
+      <workItem from="1555408085472" duration="7525000" />
+      <workItem from="1555445965475" duration="4789000" />
+      <workItem from="1555489079523" duration="3425000" />
+      <workItem from="1555494589345" duration="3128000" />
+      <workItem from="1556361240080" duration="1091000" />
+      <workItem from="1556364363351" duration="7556000" />
+      <workItem from="1556455283850" duration="12576000" />
+      <workItem from="1556472093832" duration="11328000" />
+      <workItem from="1557335662196" duration="593000" />
+      <workItem from="1557343022385" duration="11103000" />
+      <workItem from="1557408552739" duration="14066000" />
+      <workItem from="1557425333520" duration="4421000" />
+      <workItem from="1557566504785" duration="3953000" />
+      <workItem from="1557570961945" duration="1972000" />
+      <workItem from="1557656246781" duration="12848000" />
+      <workItem from="1558284443312" duration="5795000" />
+      <workItem from="1558348238704" duration="1095000" />
+      <workItem from="1558430297218" duration="962000" />
+      <workItem from="1558434478032" duration="91000" />
+      <workItem from="1558436432288" duration="490000" />
+      <workItem from="1558444861581" duration="878000" />
+      <workItem from="1558446197376" duration="1633000" />
+      <workItem from="1558462970862" duration="947000" />
+      <workItem from="1558465045805" duration="5136000" />
+      <workItem from="1558470901480" duration="4950000" />
+      <workItem from="1558503515386" duration="5077000" />
+      <workItem from="1558516696539" duration="1518000" />
+      <workItem from="1558538433425" duration="1598000" />
+      <workItem from="1568821401516" duration="613000" />
+      <workItem from="1568831658010" duration="3879000" />
+      <workItem from="1568913143246" duration="9368000" />
+      <workItem from="1569063566932" duration="2062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PaymentServiceImpTest_create - 2019.05.11 at 13h 01m 58s.xml">
+      <configuration name="PaymentServiceImpTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentServiceImpTest_create - 2019.05.11 at 13h 02m 44s.xml">
+      <configuration name="PaymentServiceImpTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentServiceImpTest_create - 2019.05.11 at 13h 03m 29s.xml">
+      <configuration name="PaymentServiceImpTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentServiceImpTest_create - 2019.05.11 at 13h 07m 21s.xml">
+      <configuration name="PaymentServiceImpTest.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentServiceImpTest_update - 2019.05.12 at 12h 36m 33s.xml">
+      <configuration name="PaymentServiceImpTest.update" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentServiceImpTest_update - 2019.05.12 at 12h 38m 25s.xml">
+      <configuration name="PaymentServiceImpTest.update" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentServiceImpTest_delete - 2019.05.12 at 12h 41m 31s.xml">
+      <configuration name="PaymentServiceImpTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceControllerTest_createInsurance - 2019.09.19 at 21h 48m 35s.xml">
+      <configuration name="InsuranceControllerTest.createInsurance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentsControllerTest_getAllPayments - 2019.09.19 at 22h 02m 33s.xml">
+      <configuration name="PaymentsControllerTest.getAllPayments" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicalAidControllerTest_create - 2019.09.21 at 13h 18m 57s.xml">
+      <configuration name="MedicalAidControllerTest.create" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146466000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2344932" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestAll.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/IncomeFactories/IncomeSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/TravelFactories/UberFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/TravelFactories/Busfactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/SchoolFactory/StationaryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/HouseholdFactories/AppliancesFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/CarFactories/PetrolFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/HouseholdFactories/RentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/SchoolFactory/BooksFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/HouseholdFactories/OtherFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpenseCategoryFactory/Personal/ClothesFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Car/Insurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Car/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Car/Petrol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Entertainment/Fitness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Entertainment/Party.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Healthcare/MedicalAid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Appliances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Groceries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Other.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Household/Rent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Personal/Beauty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Personal/Clothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/School/Books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/School/Fees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/School/Stationary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Tax/IncomeTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Totals/TotalCategoryExpense.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Travels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/ExpsenseCategories/Travel/Uber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Income/RegularIncome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/Expense/RegularExpsenses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Expenses/Expense/Expense.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="e#251#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Income/IncomeSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Domain/Users/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpensesFactories/RegularExpensiveFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Factory/ExpensesFactories/ExpenseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/InsuranceControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/PetrolController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/PetrolControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/EntertainmentController/FitnessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/EntertainmentController/PartyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/EntertainmentController/PartyControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/EntertainmentController/FitnessControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="59" column="68" selection-start-line="59" selection-start-column="68" selection-end-line="59" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/HealthCareController/MedicalAidController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/HealthCareController/MedicalAidControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="64" column="68" selection-start-line="64" selection-start-column="68" selection-end-line="64" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BudgetBuddi/Controller/ExpensesController/ExpenseCategoryController/CarController/PaymentsControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BudgetBuddi/BudgetBuddiMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
